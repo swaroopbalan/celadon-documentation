@@ -1,4 +1,4 @@
-.. _android-12:
+.. _master_release:
 
 Android 12 Stable Releases IoT
 ##############################

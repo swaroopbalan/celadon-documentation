@@ -16,7 +16,7 @@ Release Notes
 .. contents::
    :local:
    :depth: 1
-
+   
 
 Stable Releases
 ***************
